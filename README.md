@@ -10,6 +10,7 @@
         Technology
         
 - 🌱 I’m currently learning ...
+  
         Phython
         SQL
         
