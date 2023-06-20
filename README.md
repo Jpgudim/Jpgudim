@@ -11,7 +11,7 @@
         
 - 🌱 I’m currently learning ...
   
-        Phython
+        Python
         SQL
         
 - 💞️ I’m looking to collaborate on ...
