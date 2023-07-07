@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jpgudim
 
-        I'm currently a student studying Information Systems
+        I'm currently a student studying Information Systems at a university
         
 - 👀 I’m interested in ...
 
@@ -12,9 +12,7 @@
 - 🌱 I’m currently learning ...
   
         Python
-        SQL
         
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
