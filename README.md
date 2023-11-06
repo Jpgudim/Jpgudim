@@ -1,23 +1,10 @@
-- 👋 Hi, I’m @Jpgudim
+Hi, I'm @Jpgudim. I am a college student currently studing a major in information systems and a minor in computer science.
 
-        I'm currently a student studying Information Systems at a university
-        
-- 👀 I’m interested in ...
+Currently I am learning Python, SQL, HTML, and CSS. I am focusing on Python right now.
 
-        Sports
-        Cars
-        Rock Climbing
-        Technology
-        
-- 🌱 I’m currently learning ...
-  
-        Python
-        HTML
-        
-- 📫 How to reach me ...
+I hope to have a career in data analytics, software engineering, or other another path in the IT field.
 
-          
-<!---
-Jpgudim/Jpgudim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My commits are just to keep track of my projects and see my progression over time.
+
+Thanks!
+
