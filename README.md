@@ -6,7 +6,7 @@ Currently I am learning/Working with:
 - HTML
 - CSS
 - C
-= C++
+- C++
 - Java
 
 I hope to have a career in data analytics/engineering, software engineering, or other another path in the IT field.
