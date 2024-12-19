@@ -9,7 +9,7 @@ Currently I am learning/Working with:
 - C++
 - Java
 
-I hope to have a career in data analytics/engineering, software engineering, or other another path in the IT field.
+I am pursuing a career in IT, particularly data analytics/engineering and software engineering.
 
 My commits are primarily used to keep track of my projects and see my progression over time.
 
