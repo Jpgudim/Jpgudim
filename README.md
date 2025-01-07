@@ -1,4 +1,4 @@
-Hi, I'm @Jpgudim. I am a college student currently studing a major in information systems and a minor in computer science.
+Hi, I'm @Jpgudim. I am a college student currently studying a major in information systems and a minor in computer science.
 
 Currently I am learning/Working with:
 - Python
