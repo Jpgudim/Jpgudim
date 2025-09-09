@@ -1,14 +1,10 @@
-Hi, I'm @Jpgudim. I am a college student majoring in information systems with a minor in computer science.
+Hi, I'm @Jpgudim. I am a college student getting a bachelor's degree in information systems with a minor in computer science.
 
-Currently I am learning/Working with:
-- Python
-- SQL
-- HTML/CSS
-- Java
+I am pursuing a career in data engineering and analytics.
 
-I am pursuing a career in IT, particularly data analytics/engineering and software engineering.
-
-My commits are primarily used to keep track of my projects and see my progression over time.
-
-Thanks!
-
+My main personal project that I am working on is my stock market dashboard.
+Project details and plans:
+- Python for data retrieval from Polygon API
+- PostgresSQL database to store historical data
+- Dash for data visualization
+- Render for web hosting
